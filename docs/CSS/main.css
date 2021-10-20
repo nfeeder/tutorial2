@@ -147,6 +147,12 @@ ul.features-list li:before {
   width: 80%;
   margin: 0 auto 5em auto;
   border-radius: 1em;
+  cursor: pointer;
+}
+
+.testimonials-section li:hover {
+  font-weight: bold;
+  border: 2px solid black;
 }
 
 .testimonials-section li img {
